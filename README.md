@@ -1,3 +1,16 @@
+# my copy
+
+## TL,DR
+
+```bash
+git clone https://github.com/MathiasStadler/ng-books-pwa.git
+cd ng-books-pwa
+npm -i
+ng serve
+```
+
+## my thanks and credits goes to Ahsan Ayaz
+
 [![CI Status](http://img.shields.io/travis/AhsanAyaz/ng-books-pwa.svg?style=flat)](https://travis-ci.org/AhsanAyaz/ng-books-pwa)
 [![Dependency Status](https://david-dm.org/AhsanAyaz/ng-books-pwa/status.svg)](https://david-dm.org/AhsanAyaz/ng-books-pwa#info=dependencies) 
 [![Devdependency Status](https://david-dm.org/AhsanAyaz/ng-books-pwa/dev-status.svg)](https://david-dm.org/AhsanAyaz/ng-books-pwa#info=devDependencies) 
